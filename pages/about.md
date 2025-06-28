@@ -6,6 +6,6 @@ permalink: /about
 
 # Philip's Portfolio
 
-Woohoo
+This text is entered here
 
 
