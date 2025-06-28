@@ -1,6 +1,9 @@
 #-------------------------------
 # General Site Settings
 
+Can't I just enter something in the settings.yml here???
+
+
 menu:
 - {name: 'Projects', url: 'about'}
 - {name: 'Blog',     url: 'blog'}
