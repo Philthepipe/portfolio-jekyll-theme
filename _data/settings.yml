@@ -5,7 +5,7 @@ menu:
 - {name: 'Projects', url: ''}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
-- {name: 'Contact',  url: 'contact'}
+- {name: 'Contact me',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
