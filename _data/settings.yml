@@ -15,8 +15,8 @@ menu:
 
 projects:
 - {name: 'Project Alfie',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
+- {name: 'Project Abi',   url: 'proj-2'}
+- {name: 'Project Molly', url: 'proj-3'}
 - {name: 'Project Four',  url: 'proj-4'}
 - {name: 'Project Five',  url: 'proj-5'}
 
